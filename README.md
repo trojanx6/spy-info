@@ -1,0 +1,2 @@
+# casus bilgisi
+# casus hacker
