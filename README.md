@@ -1,2 +1,2 @@
-# casus bilgisi
-# casus hacker
+# spy info
+# spy hacker
